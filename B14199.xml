@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Muses dirge consecrated to the remembrance of the high and mightie monarch, Iames, by the grace of God, late king of Great Brittaine, France, and Ireland; who deceased at Theobalds, vpon Sunday, being the seuen and twentieth of March, 1625. / VVritten by Richard Iames, Master of Arts, and preacher of Gods Word at Stoke-Newington, in the countie of Middlesex, neere London.</title>
+            <author>James, Richard, 1592-1638.</author>
+         </titleStmt>
+         <extent>Approx. 27KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14199</idno><idno type="EEBO-CITATION">99843366</idno>
+  <idno type="VID">176999</idno>
+  <idno type="EEBO-PROQUEST">2240894795</idno>
+  <idno type="STC">STC 14440</idno>
+  <idno type="STC">ESTC S107670</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99843366e"/>
+            <note>(EEBO-TCP ; phase 2, no. B14199)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176999)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 741:04)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Muses dirge consecrated to the remembrance of the high and mightie monarch, Iames, by the grace of God, late king of Great Brittaine, France, and Ireland; who deceased at Theobalds, vpon Sunday, being the seuen and twentieth of March, 1625. / VVritten by Richard Iames, Master of Arts, and preacher of Gods Word at Stoke-Newington, in the countie of Middlesex, neere London.</title>
+                  <author>James, Richard, 1592-1638.</author>
+               </titleStmt>
+               <extent>[4], 15, [1] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by A[ugustine] M[athewes] and I[ohn] N[orton] for Iohn Browne, and are to bee sold at his shop in Pauls Church-yard, at the Signe of the Crane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1625.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Printer's name from STC.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">James --  I, --  King of England, 1566-1625 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176999:1"/>
+            <pb facs="tcp:176999:1"/>
+            <p>THE MUSES DIRGE, CONSECRATED TO the Remembrance of the High and Mightie Monarch, IAMES, by the Grace of <hi>God, late King of</hi> Great Brittaine, France, and Ireland; Who deceased at <hi>Theobalds,</hi> vpon Sunday, being the seuen and twen<g ref="char:EOLhyphen"/>tieth of March, 1<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>5.</p>
+            <p>Written by <hi>Richard James,</hi> Master of Arts, and Preacher of Gods Word at <hi>Stoke-Newington,</hi> in the Countie of <hi>Middle<g ref="char:EOLhyphen"/>sex, neere</hi> LONDON.</p>
+            <p>LONDON, Printed by <hi>A.M.</hi> and <hi>I.N.</hi> for <hi>Iohn Browne,</hi> and are to bee sold at his Shop in <hi>Pauls</hi> Church<g ref="char:EOLhyphen"/>yard, at the Signe of the Crane. 1<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>25.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:176999:2"/>
+            <pb facs="tcp:176999:2"/>
+            <head>TO THE RIGHT HONOVRABLE EDVVARD Lord CONVVAY Barron of RAGGLEY, and one of his Maiesties Principall Secretaries: And to the Right Worshipfull Sir FRANCIS POPHAM <hi>Knight,</hi> RICHARD IAMES wisheth all Temporall and Spi<g ref="char:EOLhyphen"/>rituall Happinesse.</head>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">R</seg>IGHT Honourable, and Right Wor<g ref="char:EOLhyphen"/>shipfull,</salute>
+            </opener>
+            <p>my publike zeale to the one f you, and my priuate ingagements to the other, haue inuit<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> mee to this Dedica<g ref="char:EOLhyphen"/>tion; In it you may see a King dead, and liuing: dead according to the flesh, but liuing in the monument of his vertues, which suruiue beyond all desolation, be<g ref="char:EOLhyphen"/>yond all Funeralls. Their lustre and irradiation is such, both in the first action, and in the thence procee<g ref="char:EOLhyphen"/>ding precedent of their examples, that in them<g ref="char:EOLhyphen"/>selues, they neede no Panegiris, nor Commendation. But yet that I might expresse my zeale to his Tombe,
+<pb facs="tcp:176999:3"/>I did my obedience to his Crowne, I haue brought the myte of these Tributary Layes, to the Consecrated Al<g ref="char:EOLhyphen"/>tar of his remembrance. If your Candor and worthi<g ref="char:EOLhyphen"/>nesse entertaine them fauourably, and giue them a free and noble acceptance, the <hi>Authour</hi> shall thinke his endeauours fortunate, and shall for euer rest:</p>
+            <closer>
+               <signed>
+                  <hi>Your Honours, and your Worships euer deuoted</hi> Seruant. <hi>RICHARD IAMES.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:176999:3"/>
+            <head>THE MVSES DIRGE.</head>
+            <p>
+               <figure>
+                  <figDesc>decorative header depicting a skull flanked on either side by crossbones</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>
+                  <seg rend="decorInit">B</seg>Eehold this heape of bones, this senslesse scull,</l>
+               <l>This speaking Embleme represents at full</l>
+               <l>Mans fraile estate, which like vnto the grasse</l>
+               <l>Doth fade, and wither, and away doth passe</l>
+               <l>In lesse then time: So that from out the wombe</l>
+               <l>We come no sooner, but vnto the Tombe</l>
+               <l>we make our Course, this being Heaue'ns decree</l>
+               <l>Since the first fruite of the forbidden Tree</l>
+               <l>Was chew'd by <hi>Adam;</hi> that his seed allwayes</l>
+               <l>Should haue on Earth but few, and euill daies.</l>
+               <l>The truth whereof, we with wet eyes may see</l>
+               <l>In this sad Mirrour of Mortalitie,</l>
+               <l>Whose dayes though Long, were euen as a Span</l>
+               <l>To great <hi>Iehouaes</hi> wide all measuring hand.</l>
+               <l>Whose daies though good, had yet their thorny shares</l>
+               <l>Of worldly griefes, and Scepter cirkling cares.</l>
+               <l>Which he surmounting with the powerfull strength</l>
+               <l>Of his Seraphicke Soule, or'e swai'd at length</l>
+               <l>Eu'n as at first; transforming all their gall</l>
+               <l>(Which makes so many Soules sicke mortalls thrall)</l>
+               <l>To sweete <hi>Nepenthe,</hi> with whose pleasures drunke</l>
+               <l>Vnder their Masse. his vigour neuer suncke</l>
+               <pb n="2" facs="tcp:176999:4"/>
+               <l> But still aspir'd: Like to the Bird they call</l>
+               <l>Of Paradice, which nere on Earth doth fall</l>
+               <l>Though made of Earth: But still frequents the skie,</l>
+               <l>And still amongst those Azured Orbs doth flie.</l>
+               <l>On Earth he liuing, liu'd no earthly life</l>
+               <l>But fly'd aboue ambition, pride, and strife:</l>
+               <l>Aboue those sinnes, which with diuisions chaine</l>
+               <l>Plucke Man from God, and God from Man againe.</l>
+               <l>So that whatsoeuer Lustre you could finde,</l>
+               <l>Disperst among'st whole millions of Mankinde,</l>
+               <l>Of different graces, shining like rich gemmes,</l>
+               <l>Set in the fronts of seuerall Diadems:</l>
+               <l>All these, like Crownes, adorn'd his Royall head,</l>
+               <l>And of them all, large stories you may reade</l>
+               <l>In his Life Legend: Learning, Grauity,</l>
+               <l>Soule piercing Eloquence, rare Chastity,</l>
+               <l>Iustice, Compassion, Pitie, Piety,</l>
+               <l>Constancie, Prudence, Saint-like Charity:</l>
+               <l>All these were lockt within the Sytttim Chest,</l>
+               <l>Of his retyred and Caelestiall breast.</l>
+               <l>Then as some rich perfumes being sent from farre,</l>
+               <l>Where rising Phoebus mounts his glistring Carre,</l>
+               <l>Shut vp in Boxes of <hi>Arabian Gold,</hi>
+               </l>
+               <l>Send from the mid'st of that enclosing mould,</l>
+               <l>An Aromaticke sweete perfuming smell,</l>
+               <l>Whereon the Soule and rauish't sense doth dwell:</l>
+               <l>These vertues inthronized in that shrine,</l>
+               <l>Which did enclose those faculties diuine,</l>
+               <l>Sent forth vnto great Brittaines gazing view,</l>
+               <l>An obiect of a bright transparent hewe,</l>
+               <l>His glorious Life, which all men did admire,</l>
+               <l>As sparkling from the cleere <hi>Promethian</hi> fi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e</l>
+               <pb n="3" facs="tcp:176999:4"/>
+               <l> Of Lawe, and reason, which were still the squares</l>
+               <l>Of all his Life, his actions, and affaires,</l>
+               <l>Nor thus alone did admiration grace,</l>
+               <l>But imitation did the footsteps trace</l>
+               <l>Of his example. That the common wealth</l>
+               <l>Was fraught with plenty, peace, and publike health:</l>
+               <l>So that no members vnimploy'd did lye,</l>
+               <l>But answer'd others with conformitie:</l>
+               <l>All this proceeded from th'iradient light</l>
+               <l>Of IAMES his presidents, whose splendor might</l>
+               <l>In future Ages serue for patternes store,</l>
+               <l>And blemish all examples wrought before.</l>
+               <l>He was that Head from whom the Reuerend traine</l>
+               <l>Of our Law-giuers did their motions gaine:</l>
+               <l>He was that head from whom the States-man tooke:</l>
+               <l>His Oracles, as from some <hi>Delphian</hi> Booke:</l>
+               <l>He was that head from whom the Scholler drew</l>
+               <l>Contemplatiue and Pracique <hi>Maxims</hi> too.</l>
+               <l>Sixt <hi>Henries</hi> zeale, was lodg'd within his breast,</l>
+               <l>Seuenth <hi>Henries</hi> wisdome in his Soule did rest,</l>
+               <l>Third <hi>Edwards</hi> care his Scepter di<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> attend,</l>
+               <l>
+                  <hi>Elizabeths</hi> sweet meekenesse did commend</l>
+               <l>His Princely gouernment, as truely good,</l>
+               <l>As it was free from slaughter-breathing bloud.</l>
+               <l>And all these Graces in such plenteous measure,</l>
+               <l>Were powred forth of great <hi>Pandorus</hi> treasure,</l>
+               <l>Vpon his Regall selfe, that all her hoord.</l>
+               <l>All her large <hi>Magazin</hi> could scarse affoord</l>
+               <l>But such another Patterne; pleasing Peace,</l>
+               <l>Full swelling plenty, priuate, publike ease</l>
+               <l>Were Handmaides to his Scepter; He that ploughes</l>
+               <l>The Westerne Isles, and <hi>Irelands</hi> slimy sloughes,</l>
+               <pb n="4" facs="tcp:176999:5"/>
+               <l> The Redshanke which frequents that Northerne shore,</l>
+               <l>Where <hi>Neptunes</hi> waues against cold Orkney roare.</l>
+               <l>The nimble <hi>Kerne,</hi> who footes it or'e the paces,</l>
+               <l>The Bog's, and Quagmires, and those vncouth placess,</l>
+               <l>Where <hi>Oncals</hi> bastard issue, proud <hi>Tyrone</hi>
+               </l>
+               <l>As <hi>Vlsters</hi> Monarch did himselfe <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nthrone:</l>
+               <l>All these reformed grew, and patternes tooke</l>
+               <l>Of life and liuing, from th'exemplar booke</l>
+               <l>Of their late Soueraigne: whose religious care,</l>
+               <l>No cost of Coyne, no labour did ferbeare,</l>
+               <l>To restore Churches in th' <hi>Hybernian</hi> Land,</l>
+               <l>Spoyl'd by th'accursed Northerne Rebels hand</l>
+               <l>Thus popular, and vncontrould applause,</l>
+               <l>Did all the Current of his actions grace;</l>
+               <l>Only that impute, pure reputed sect,</l>
+               <l>Which singular precisenesse doth affect,</l>
+               <l>Which slies from Conscience, and makes gloz'd pre<g ref="char:EOLhyphen"/>tence</l>
+               <l>Their stalking-Horse, and their Religions essence:</l>
+               <l>Only th'Ignatian Conclaue, which adores</l>
+               <l>Their triple Mytred Prelate, and implores</l>
+               <l>His Pardon more then Gods, when as they spinne</l>
+               <l>The vnhallowed web of their vnueniall sinn:</l>
+               <l>These were the sole enuiers of that state</l>
+               <l>Which all this continent possest of late,</l>
+               <l>From th'insluence of his most glorious Raigne,</l>
+               <l>Free from that blemish, and that menstruous staine</l>
+               <l>Which forraigne Kingdomes suffer; and to these</l>
+               <l>Who were this Ilands burthen, and disease,</l>
+               <l>But marke his mercy: that blacke Powder-plot,</l>
+               <l>Which at the publike desolation shot,</l>
+               <l>And meant with one state and King-killing stroake,</l>
+               <l>Religions forme and gouernement to choake:</l>
+               <pb n="5" facs="tcp:176999:5"/>
+               <l> Th' <hi>Argilian</hi> Treason, nor the dreadfull bent</l>
+               <l>Of <hi>Gowries</hi> complot wanting president;</l>
+               <l>All these Conspiracies could not enforce</l>
+               <l>Our IAMES to leaue his mercies ancient course.</l>
+               <l>As knowing this to be th'Almighties Type,</l>
+               <l>Which makes the Creature to his Creator like;</l>
+               <l>Yet all these Graces, nor their swelling dower,</l>
+               <l>Which th'heauens did in such abundance power,</l>
+               <l>Could not once stop the Fatall Sisters knife,</l>
+               <l>Nor adde one minute to his cancel'd Life.</l>
+               <l>Not all that masse of vnexhausted store,</l>
+               <l>Which lies from <hi>Douer</hi> to the Northerne Shore,</l>
+               <l>Not that most awfull Scepter, nor that Crowne,</l>
+               <l>Which now the Princes temples doth surround,</l>
+               <l>Not all these dignities could once asswage,</l>
+               <l>The boundlesse bounds of Deaths vnsatiate rage,</l>
+               <l>Which strikes alike the Scepter, and Plough-share,</l>
+               <l>And striking doth nor King, nor Pesant spare.</l>
+               <l>But ô thou scourge of Man-kind, why shouldst thou</l>
+               <l>To Kings, and Monarchs, thy destruction vow?</l>
+               <l>O why should their Annoynted Corps endure</l>
+               <l>Thy killing Plague, thy raging Callenture?</l>
+               <l>VVa'st not enough that streames of purple blood,</l>
+               <l>Conieal'd of late on <hi>Beame-lands</hi> surface stood?</l>
+               <l>VVa'st not enough that all <hi>Sycambr'ias</hi> tract</l>
+               <l>By thy dire shafts lay desolate and sacte?</l>
+               <l>But must thy winged wrath inuade this Land,</l>
+               <l>And <hi>Myriads</hi> kill with that accursed hand,</l>
+               <l>Whose rage no vulgar blood-shed could alay,</l>
+               <l>Nor common Carnage could thy furie stay?</l>
+               <l>But must thy longing soule deuoure a flood</l>
+               <l>Of more e'nobled consecrated blood?</l>
+               <pb n="6" facs="tcp:176999:6"/>
+               <l> And like some Horse leach thou must sucke the veines</l>
+               <l>Of foure thrise honour'd Peeres, whose mouing straines</l>
+               <l>Vnder our King, did rule three Kingdomes lore,</l>
+               <l>And in that rule a glorious portion bore.</l>
+               <l>And could not heare thy banefull malice stop,</l>
+               <l>But must thy fatall Axe that Cedar lop,</l>
+               <l>That branched Tree, which shaddowed all the soyle,</l>
+               <l>Of this Heau'ns-blessed, and <hi>Iames</hi>-blessed Ile?</l>
+               <l>Must <hi>Iames</hi> dye like the rest, and die to vs,</l>
+               <l>When we did want him most? Then dying thus,</l>
+               <l>Shall his remembrance vnremembred passe,</l>
+               <l>Assoone as h'is intombed in the masse</l>
+               <l>Of's Mother Earth? Shall no <hi>Plebeian</hi> Verse</l>
+               <l>Adorne the Shrine of his diuiner Hearse?</l>
+               <l>Shall not the Muses learned Pensill raise</l>
+               <l>Some Monument to his immortall praise?</l>
+               <l>Shall hee that wrote <hi>Lepantoes</hi> famous Story,</l>
+               <l>And gaue a liuing lustre to the glory</l>
+               <l>Of those time-honour'd Christians, who did fight</l>
+               <l>Against fierce <hi>Partaes</hi> and <hi>Euchalies</hi> might?</l>
+               <l>Shall hee that wrote vpon that thornie Care,</l>
+               <l>Which Crownes &amp; Scepters in their Compasse beare?</l>
+               <l>Shall hee that squar'd the δωρόνσ Royall Gemme,</l>
+               <l>Farre richer then his Triple Diademe,</l>
+               <l>Wherein his sonnes might those Characters see,</l>
+               <l>Which God requires in selfe-like Maiestie?</l>
+               <l>Shall hee that did those Mysteries vnfold,</l>
+               <l>Which blessed <hi>Iohn</hi> in <hi>Pathmos</hi> Ile foretold,</l>
+               <l>Who did discouer all the cursed shifts</l>
+               <l>Of <hi>Demoniacks,</hi> and their hellish drifts?</l>
+               <l>Shall hee that gaue the Scepter, rules to sway,</l>
+               <l>And taught how Subiects should their King obey?</l>
+               <pb n="7" facs="tcp:176999:6"/>
+               <l> Who did defend that Oath which doth maintaine,</l>
+               <l>The right of Monarchs, that on earth doe raigne?</l>
+               <l>Who made <hi>Perounes</hi> proud Cardinall stand mute,</l>
+               <l>And <hi>Vorstius</hi> Summes did learnedly confute?</l>
+               <l>Shall hee that raysed others from the night</l>
+               <l>Of darke obliuion want obsequious right?</l>
+               <l>Oh shall the Sisters three thrice numbred Chore,</l>
+               <l>Which walkes on <hi>Isis,</hi> and on <hi>Grantaes</hi> shore?</l>
+               <l>Oh shall <hi>Apolloes</hi> Laureat Conclaue bee</l>
+               <l>So enuious vnto Iust Solemnitie,</l>
+               <l>As not to bring their tributary Layes,</l>
+               <l>To Frontispice the Marble of his praise?</l>
+               <l>Not so, nor so, for sooner shall that Hill</l>
+               <l>Whereas they sit <hi>Achaias</hi> Champion fill?</l>
+               <l>Sooner shall <hi>Aganippes</hi> springs grow scant,</l>
+               <l>And <hi>Phoebus</hi> Darlings sacred Liquor want,</l>
+               <l>Then that great <hi>Iames</hi> his consecrated Vrne,</l>
+               <l>Shall want Fames Vestall flames, which still shall burne</l>
+               <l>Till Times last period, and shall neuer die,</l>
+               <l>Till all things fade, except Eternitie.</l>
+               <l>For wast not that the Muses stood at gaze</l>
+               <l>Vpon that Sunne, whose splendor did amaze</l>
+               <l>Their dazeled senses? Wast not that his life</l>
+               <l>Within their doubtfull Iudgements rais'd a strife,</l>
+               <l>And made their Consort to demurre at large,</l>
+               <l>Before they durst to vndergoe this charge,</l>
+               <l>Thinking their outward Varnish might deface</l>
+               <l>His inward worth, perfection, forme and grace;</l>
+               <l>Had it not been their candor scornes to giue</l>
+               <l>Fames Funeralls to Princes whilst they liue?</l>
+               <l>Or that their Synode did desire to see</l>
+               <l>The finall Act of his Mortalitie?</l>
+               <pb n="8" facs="tcp:176999:7"/>
+               <l> Some <hi>Iohnson, Drayton,</hi> or some <hi>Herick</hi> would</l>
+               <l>Before this time haue charactred the Mould</l>
+               <l>Of his perfections; and in liuing Lines,</l>
+               <l>Haue made them knowne before these mourning times.</l>
+               <l>Nor was our <hi>Iames</hi> his life more fit me and sure,</l>
+               <l>More free, and spotlesse, sublimate and pure,</l>
+               <l>Then was his farewell to this sinfull earth,</l>
+               <l>Which brought him to Eternities first birth:</l>
+               <l>So that a fruitfull Panegericke field,</l>
+               <l>His Life and Death vnto the Learned yeeld,</l>
+               <l>Whereafter all the volumes of their praise,</l>
+               <l>Their sable sheets, and Elegiacke Layes,</l>
+               <l>They may conclude, <hi>Iames</hi> liu'd and died so well,</l>
+               <l>That Life and Death in him were parallell.</l>
+               <l>His life, was not like some <hi>Aprilian</hi> blast,</l>
+               <l>Which endeth in a cloudy storme at last.</l>
+               <l>Nor was it like some Riuers Christall source,</l>
+               <l>Which muddy runnes in his continued course:</l>
+               <l>For as he liu'd, so did this Monarch die,</l>
+               <l>And left for patterne to Posteritie,</l>
+               <l>The bright examples of his life and death,</l>
+               <l>Shining like <hi>Ledaes</hi> twinnes, on heauen, on earth.</l>
+               <l>Thus to be briefe, he liu'd and dyed so well,</l>
+               <l>That Life and Death stroue both which should excell.</l>
+               <l>For when that <hi>Galens</hi> skill could not appease</l>
+               <l>The raging of his Callentur'd disease;</l>
+               <l>When Death approached, and the fatall knife</l>
+               <l>Began to touch the cordiall strings of life:</l>
+               <l>Hee knowing, that th' Egyptian tottering reed</l>
+               <l>Of humane helpe, and succour could not steed</l>
+               <l>His Soule in this distresse; did not relye</l>
+               <l>Vpon that broken Collumne, but did flie</l>
+               <pb n="9" facs="tcp:176999:7"/>
+               <l> To that all-helping, and all-healing hand,</l>
+               <l>Which for his good, still moouing, still did stand.</l>
+               <l>His Conscience being iealous of those faults,</l>
+               <l>Of those transgressiue crimes, and those defaults,</l>
+               <l>Which prest his Soule, before his finall gaspe,</l>
+               <l>Their Counting booke he plainly did vnclaspe,</l>
+               <l>And fully did confesse that Masse of Sinne,</l>
+               <l>Which hee from's youth to's elder Age did spinne;</l>
+               <l>He knowing true repentance for to bee</l>
+               <l>A second <hi>Iordan</hi> for that Leprosie,</l>
+               <l>Which ouerspreads the Soule: and that the Balme</l>
+               <l>Of <hi>Maries</hi> teares was soueraigne for his harme.</l>
+               <l>Hee grinds his carnall heart, and straight relents,</l>
+               <l>Hee flies from Law to Grace, and then repents</l>
+               <l>For all those sinnes, which raise the parting wall,</l>
+               <l>And make the creature from th' Creator fall:</l>
+               <l>Hee grieues for them, as though hee meant no more</l>
+               <l>To grieue for sinnes, like to those sinnes before.</l>
+               <l>Then mounted on the Cherub of his Faith,</l>
+               <l>Hee thus and thus to his Redeemer saith:</l>
+               <l>The dreadfull terrours of the gaping Graue</l>
+               <l>Cannot my Courage, nor my Zeale depraue:</l>
+               <l>I know that Death eu'n with his grimmest face,</l>
+               <l>Can but this rotten House of clay deface,</l>
+               <l>And that, that last <hi>Omega</hi> well to die,</l>
+               <l>Is but the <hi>Alpha</hi> to Eternitie.</l>
+               <l>I know my sinnes are great, and that their fright</l>
+               <l>Might iustly bring an euerlasting night</l>
+               <l>Vpon my pensiue Soule, but that my Hope,</l>
+               <l>Ioyn'd with a liuely Faith, doth vnder-prop</l>
+               <l>These humane frailties, and doe make mee flie</l>
+               <l>From feares sad Mansion, to that Christall Skie</l>
+               <pb n="10" facs="tcp:176999:8"/>
+               <l> Where my Redeemer liues, who doth receiue</l>
+               <l>All those who leaue sinne, before sinne them leaue.</l>
+               <l>But though my faults be great, my priuate sense</l>
+               <l>Doth thus farre comfort my sad Conscience,</l>
+               <l>That though they be, of a vermilion die</l>
+               <l>I neuer yet left my fidelitie</l>
+               <l>To Faith nor true Religion; but did lay</l>
+               <l>My sole foundation on that Rockie staie:</l>
+               <l>This was the Pole, the Pillar, and the light,</l>
+               <l>Which did direct my sinne-eschewing sight</l>
+               <l>From the first day, that I this light did see</l>
+               <l>To this last act of my mortalitie.</l>
+               <l>Then calling for the sacred Bread and Wine,</l>
+               <l>Which powerfully doth man and God combine,</l>
+               <l>He takes it from that learned Prelats hand,</l>
+               <l>Which <hi>Lincolnes</hi> Sea rules as Diocesan,</l>
+               <l>And this he did vpon that glorious day,</l>
+               <l>VVherein he first did <hi>Englands</hi> Scepter sway.</l>
+               <l>Twise had the Sunne his smoaking Axle steep't,</l>
+               <l>Within the Billowes of the Westerne deepe,</l>
+               <l>When <hi>Saturne</hi> look't vpon the third daies light,</l>
+               <l>With a malignant, ill fore-boading sight,</l>
+               <l>For two howres after that sad middaies date</l>
+               <l>Hee lost his Speech, which did prognosticate</l>
+               <l>The dire disaster of this Monarchs death,</l>
+               <l>Who next day left, that Mansion house of earth,</l>
+               <l>And laid his Royall earthly Scepter downe,</l>
+               <l>To put on heau'ns immortalized Crowne.</l>
+               <l>But after that his speech began to faile,</l>
+               <l>And pale-fac't Death did cu'ry sense assaile;</l>
+               <l>When as they prai'd or read, to those sweete lines</l>
+               <l>He gaue consent with cleere transparent fignes,</l>
+               <pb n="11" facs="tcp:176999:8"/>
+               <l> By lifting vp his hands, his armes, his eies,</l>
+               <l>To him that dwels aboue th'all Circling skies.</l>
+               <l>But on the Sunday morne, foure howres before</l>
+               <l>The Sunne saluted <hi>Englands</hi> Easterne shore,</l>
+               <l>Hee calling for his Sonne, lifts vp his head,</l>
+               <l>By <hi>Ramseys</hi> helpe, from off the fatall bed,</l>
+               <l>Where his last act was kissing of his Sonne,</l>
+               <l>And his last words were calling still vpon</l>
+               <l>His Princely CHARLES, who did euen melt,</l>
+               <l>For those sad paines which dying IAMES then felt.</l>
+               <l>Hence in the mid'st of those suspicious feares,</l>
+               <l>That masse of woes, those Cataracks of teares,</l>
+               <l>His Royall Race, his Stock thats left behind,</l>
+               <l>May in their mourning thoughts this comfort finde;</l>
+               <l>That alls not dead, for one part is ascended,</l>
+               <l>T'other being dust, to dust is now descended,</l>
+               <l>Whereas a pawne ingag'd that mortall lies,</l>
+               <l>Till glorified immortall it shall rise.</l>
+               <l>And as for me though that blacke Sundaies light,</l>
+               <l>Whereon grim <hi>Saturne</hi> look't as blacke as night,</l>
+               <l>And th' heauens powr'd such stormes of melting showres,</l>
+               <l>Out of <hi>Aquarius</hi> tempest-breathing bowres,</l>
+               <l>And wept as though his Losse they did lament,</l>
+               <l>In whom the world receiu'd so much content.</l>
+               <l>Although that day shall ne're be registred</l>
+               <l>In my sad thoughts, nor once be kalendred</l>
+               <l>Amongst the white ones, but be mark'd for bad</l>
+               <l>Prodigious, Dismall, Ominous, and Sad.</l>
+               <l>Yet this shall be a Cordiall to my mind,</l>
+               <l>Vertues did adde before, Fame adds behind,</l>
+               <l>Life to his life, which shall for euer last</l>
+               <l>Beyonds Times power, and false detractions blast,</l>
+               <pb n="12" facs="tcp:176999:9"/>
+               <l> Yet this shall be my comfort, that his Throne</l>
+               <l>VVants not a CHARL's fit for succession,</l>
+               <l>Vnder whose Raigne, this Sea deuided Land,</l>
+               <l>VVhich runnes from <hi>Kantium</hi> to th' <hi>Orcadian</hi> Strands;</l>
+               <l>Vnder whose Raigne, fat <hi>Ireland</hi> and faire <hi>France</hi>
+               </l>
+               <l>Shall lift vp their deiected countenance</l>
+               <l>VVith mirth and gladnesse. For no forraigne foe,</l>
+               <l>This <hi>Neptune</hi>-girdled Monarchie shall know</l>
+               <l>Nor feele within her entralls; no State cankers,</l>
+               <l>With publike miseries shall glut their rankors,</l>
+               <l>No Court-<hi>Hyrudoes</hi> shall make Iustice bleede,</l>
+               <l>Nor on the Commons desolation feede,</l>
+               <l>
+                  <hi>Elizaes</hi> dayes shall once againe returne,</l>
+               <l>And IAMES his daies rise out of IAMES his vrne.</l>
+               <l>Let vs not then who doe suruiue him here</l>
+               <l>In this darke vale, with sable mourning cheere</l>
+               <l>Lament him more, since he doth liue, though dead,</l>
+               <l>Within his CHARLES, since that his glorious head</l>
+               <l>Is Heau'n-Thronized, where he now doth sing</l>
+               <l>
+                  <hi>Alleluiae's</hi> to the Coelestiall King,</l>
+               <l>Among'st the winged troopes, where he now sees</l>
+               <l>The perfect shape of faithes darke misteries,</l>
+               <l>And that not in a glasse, but face to face</l>
+               <l>Reflected from the Splendor of that grace,</l>
+               <l>VVhich giues vs faith below; and then aboue,</l>
+               <l>Immortall Knowledge, Wisedome, Truth and Loue.</l>
+            </lg>
+         </div>
+         <div type="collection_of_poems">
+            <pb n="13" facs="tcp:176999:9"/>
+            <head>
+               <hi>Anagramata Anglica-Latina,</hi> OR: Certaine Anagrams applied vnto the death of our late Soueraigne King IAMES of blessed Memorie.</head>
+            <div type="part">
+               <head>KING IAMES.<lb/>
+                  <hi>I am seeking.</hi>
+               </head>
+               <l>WHat didst thou seeke, O <hi>Iames,</hi> Great Brittaines King</l>
+               <l>Wast Scepters more or Diadems to bring</l>
+               <l>Vnto thy rule? or soughts thou to subdue</l>
+               <l>By subtill Plots, or <hi>Mars</hi> his warlike crew</l>
+               <l>Thy smooth-toung'd foes? who had they had but power</l>
+               <l>Would not haue spar'd, blood-storming showers to poure</l>
+               <l>Vpon thy Selfe, thy Kingdome, and thy Race,</l>
+               <l>But would haue sought Great Brittaine to deface,</l>
+               <l>And doe to thee, as they haue done to those</l>
+               <l>Whom iust pretences made them lawfull foes.</l>
+               <l>Or did'st thou seeke by force to make the <hi>Rhine</hi>
+               </l>
+               <l>Reacknowledge homage to the <hi>Palatine?</hi>
+               </l>
+               <l>Or soughts thou by new conquests to obtaine</l>
+               <l>Another World vpon the Westerne maine?</l>
+               <l>Not thus, nor thus, for thy diuiner bent</l>
+               <l>Did neuer rest vpon the Firmament</l>
+               <l>Of these proiections, for thy chiefest aime</l>
+               <l>Was Heau'n on Earth, and from Earth Heau'n to gaine,</l>
+               <l>On Earth, ô King, thou ne're soughts Earthly treasures,</l>
+               <l>'Twas Iustice, Piety, Peace, and Heauens pleasures;</l>
+               <l>These were the things, which thou great Monarch sough</l>
+               <l>And th' only scopes of thy Coelestiall thoughts.</l>
+            </div>
+            <div type="part">
+               <pb n="14" facs="tcp:176999:10"/>
+               <head>Another vpon the same.</head>
+               <l>O Hee is gone, for whom the Sisters three</l>
+               <l>Of grace doe mourne, and chide with destinie:</l>
+               <l>O he is gone for whom <hi>Apollo</hi> sings</l>
+               <l>A fatall Dirge, vnto his weeping strings:</l>
+               <l>O hee is gone, for whom the Muses crie</l>
+               <l>In sable weeds with dolefull melodie.</l>
+               <l>But although <hi>Iames</hi> bee gone, hee's gone <hi>to seeke</hi>
+               </l>
+               <l>That Mansion, where the King of Kings <hi>doth keepe;</hi>
+               </l>
+               <l>Yet all's not gone, for heauen keepes his Spirit,</l>
+               <l>Fame his remembrance, Honour his due Merit.</l>
+               <l>Thus being lost, hee's found, and seeking finds</l>
+               <l>That happinesse, which earth-deuoted minds</l>
+               <l>Doe neuer seeke, nor euer shall obtaine,</l>
+               <l>Because they seeke not heau'n on earth to gaine.</l>
+            </div>
+            <div type="part">
+               <head>Anagrammata Latina.</head>
+               <head>IACOBVS REX.<lb/> Bis Rex Vaco.</head>
+               <l>QVi modo regnaui trino Diademate cinctus</l>
+               <l>Bis Rex Imperio, bis Diadema gerens:</l>
+               <l>Cuius erat quicquid diuisus ab orbe <hi>Brittannus</hi>
+               </l>
+               <l>Posidet, &amp; pulchri quicquid Hybernus habet.</l>
+               <l>Nunc ego mundanis curis &amp; mole solutus</l>
+               <l>Ethereâ Liber spiritus arce vaco.</l>
+            </div>
+            <div type="part">
+               <pb n="15" facs="tcp:176999:10"/>
+               <head>Aliud in idem.</head>
+               <l>DIgnus eras cunis <hi>Scotiae</hi> Diademate, dignus</l>
+               <l>Qui gereres tenera Regia sceptra manu;</l>
+               <l>Dignus eras, quum te senior cognoueraraetas,</l>
+               <l>Annosa vt gereres sceptra <hi>Brittanna</hi> manui</l>
+               <l>Bis{que} coronatus, meliori cincta corona</l>
+               <l>Tempora pro meritis, nuuc Iacobe, tenes:</l>
+               <l>Sic tibi post triplicis, triplicata pericula regni,</l>
+               <l>Post haec Diuinis rebus adesse vacat.</l>
+            </div>
+            <div type="part">
+               <head>Aliud Anagramma.</head>
+               <head>IACOBVS REX.<lb/> Ob curas Exî.</head>
+               <l>QVi triplicis Regni totidem moderatus habenas,</l>
+               <l>Bis{que} coronatus nostro regnauerat Orbe,</l>
+               <l>Cuius erat, quicquid toto circumflua ponto</l>
+               <l>Insula diues habet, quicquid quae a Virgine terra</l>
+               <l>Nomen habet, habuit, vel quicquid <hi>Hybernia</hi> tota:</l>
+               <l>Post varias curas, &amp; multa pericula Regni</l>
+               <l>Hac tumulatus humo, foelici conditur vrna.</l>
+               <l>Exutus, sic exiuit, sic pondere liber</l>
+               <l>Terreno, ad manes facilis migrauit Elyse,</l>
+               <l>Henrici{que} Annae{que} suae, iunctus{que} corone</l>
+               <l>Coelicolûm, aeterna foelix dominatur in aula.</l>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:176999:11"/>
+            <pb facs="tcp:176999:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
